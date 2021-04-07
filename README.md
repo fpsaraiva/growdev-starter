@@ -11,3 +11,4 @@ Os projetos deste repositório são os seguintes:
 * [Landing Page em CSS](https://github.com/fpsaraiva/growdev-starter-landing-page-css)
 * [Calculadora em JS](https://github.com/fpsaraiva/gs3-calculadora-js)
 * [Landing Page - Desafio DOM](https://github.com/fpsaraiva/gs3-landing-page-dom)
+* [Scrapbook com bootstrap](https://github.com/fpsaraiva/gs3-scrapbook)
