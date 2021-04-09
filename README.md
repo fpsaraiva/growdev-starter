@@ -13,3 +13,4 @@ Os projetos deste repositório são os seguintes:
 * [Landing Page - Desafio DOM](https://github.com/fpsaraiva/gs3-landing-page-dom)
 * [Scrapbook com bootstrap](https://github.com/fpsaraiva/gs3-scrapbook)
 * [Jogo da memória em JS](https://github.com/fpsaraiva/gs3-jogo-memoria)
+* [Scrapbook refatorado em ES6+](https://github.com/fpsaraiva/gs3-scrapbook-es6)
