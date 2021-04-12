@@ -14,3 +14,4 @@ Os projetos deste repositório são os seguintes:
 * [Scrapbook com bootstrap](https://github.com/fpsaraiva/gs3-scrapbook)
 * [Jogo da memória em JS](https://github.com/fpsaraiva/gs3-jogo-memoria)
 * [Scrapbook refatorado em ES6+](https://github.com/fpsaraiva/gs3-scrapbook-es6)
+* [RPG Novo Mundo](https://github.com/fpsaraiva/rpg-novo-mundo)
