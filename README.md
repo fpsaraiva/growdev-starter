@@ -16,3 +16,4 @@ Os projetos deste repositório são os seguintes:
 * [Scrapbook refatorado em ES6+](https://github.com/fpsaraiva/gs3-scrapbook-es6)
 * [RPG Novo Mundo](https://github.com/fpsaraiva/rpg-novo-mundo)
 * [API de transações](https://github.com/fpsaraiva/gs3-api-transacoes)
+* [API Growdevers](https://github.com/fpsaraiva/gs3-api-growdevers-mvc)
