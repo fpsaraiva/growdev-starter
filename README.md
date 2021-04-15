@@ -17,3 +17,5 @@ Os projetos deste repositório são os seguintes:
 * [RPG Novo Mundo](https://github.com/fpsaraiva/rpg-novo-mundo)
 * [API de transações](https://github.com/fpsaraiva/gs3-api-transacoes)
 * [API Growdevers](https://github.com/fpsaraiva/gs3-api-growdevers-mvc)
+* [API Marvel backend](https://github.com/fpsaraiva/api-marvel-back)
+* [API Marvel frontend](https://github.com/fpsaraiva/api-marvel-front)
