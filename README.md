@@ -19,3 +19,5 @@ Os projetos deste repositório são os seguintes:
 * [API Growdevers](https://github.com/fpsaraiva/gs3-api-growdevers-mvc)
 * [API Marvel backend](https://github.com/fpsaraiva/api-marvel-back)
 * [API Marvel frontend](https://github.com/fpsaraiva/api-marvel-front)
+* [API Growdevers backend](https://github.com/fpsaraiva/growdev-starter-api-growdevers-back)
+* [API Growdevers frontend](https://github.com/fpsaraiva/growdev-starter-api-growdevers-front)
